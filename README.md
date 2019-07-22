@@ -5,3 +5,4 @@ une démo de GIT
  et maintenant modif depuis github
   ...
 puis depuis ma machine
+... et de nouveau depuis github
